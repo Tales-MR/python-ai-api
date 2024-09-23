@@ -16,5 +16,8 @@ def get_all_ais():
         },
         "ai-2": {
             "name": "TesteAi2"
+        },
+        "ai-3": {
+            "name": "TesteAi3"
         }
-    })
+    });
